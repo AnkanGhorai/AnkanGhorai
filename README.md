@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnkanGhorai
-- 👀 I’m interested in SharePoint C#
+- 👀 I’m interested in SharePoint, .NET, Azure, React, Java
 - 🌱 I’m currently working SPFX with react
 - 💞️ I’m looking to collaborate on SPFX
 - 📫 How to reach me ankanghorai@gmail.com
